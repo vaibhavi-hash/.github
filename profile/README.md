@@ -54,6 +54,41 @@ a visualization. **Merged PRs get exclusive 169pi swag. 🎁**
 
 ### @169pi — the first brick 🧱
 
+### @your-github-handle — <what you're calling it>
+
+<!-- Your representation goes here: SVG, code, ASCII, diagram, whatever. -->
+
+*What it represents:* one line on the 169pi model, capability, or feature this reflects.
+**Contributed by [@your-vaibhavi-hash](https://github.com/vaibhavi-hash)**
+**Club:** Your Club Name  <!-- optional — only if you're contributing as part of a club/group; solo contributors: delete this line -->
+*Find me:* optional — site, socials, or however you want to be reachable.
+
+###########%%%%%%%%%@@@@@@@@@@
+************###########%%%%%%%
+++*****+++++++++++--+*******##
++++++++=========+=++*+++++****
+++===**+=-==+++==---:-=====+++
+====-=**====++==+====-:-======
+-----=====+==----**++==--====+
+--:::-====*#%*:..#+-------==++
+....:-=++==-:..::.:----=======
+.....:--===--:-=*=--=+=--====-
+.....:====--------==++=-::---=
+.....:==*+=-----=-----=--:....
+.....-======-=------=====-:...
+.....-=======--=----=+===-:...
+.....-=+*+====---===+++=-=:...
+.....-==+++++=--=+++++=-=-:...
+..:=+##++****#+********=+=-:::
+-+**+++**+****#%###*+++=+=--::
+::::--=++++****%%%*+++++==-:::
+:.::---=++==+**#%#+++=-=----::
+:::-:--=-====+*##+---::=-:-:::
+:::::::-----====+*+=-==::-::::
+
+
+
+
 This wall is yours to build on. Fork the repo, add your entry right here, and
 open a PR — see **[CONTRIBUTING.md](../CONTRIBUTING.md)** for the 5-step guide.
 
